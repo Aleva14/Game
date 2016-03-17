@@ -72,12 +72,14 @@ Show current changes, relative to HEAD
 git diff
 ```
 # Edit GIT repository
-Did changes, - commit it
+Did changes, - commit it and push to remoute repo(e.g. on Bitbucket)
 ```bash
 git add file_name.cpp <- changed file
 git commit
 -- Or --
 git commit -a -m "subsystem: my first commit message"
+-- And --
+git push origin master
 ```
 Save patch to file
 ```bash
