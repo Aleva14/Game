@@ -4,7 +4,7 @@
 
 ##Все про [Git](https://bitbucket.org/snorch/cs454/src/HEAD/GIT.md?at=master)
 
-##[Критерии](https://bitbucket.org/snorch/cs454/raw/HEAD/REQUIREMENTS.md?at=master) сдачи проекта
+##[Критерии](https://bitbucket.org/snorch/cs454/src/HEAD/REQUIREMENTS.md?at=master) сдачи проекта
 
 ##[Темы проектов](https://bitbucket.org/snorch/cs454/src/HEAD/THEMES.md?at=master)
 
